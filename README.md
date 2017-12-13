@@ -1,0 +1,2 @@
+# greatepoint
+global service
